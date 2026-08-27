@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'pt.paulo.autohotspot'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'pt.paulo.autohotspot'
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}
