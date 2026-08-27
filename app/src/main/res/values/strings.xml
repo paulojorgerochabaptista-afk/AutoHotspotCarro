@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Hotspot Carro</string>
+    <string name="accessibility_service_name">Automação do hotspot do carro</string>
+    <string name="accessibility_desc">Deteta a ligação Bluetooth ao carro e aciona o botão Hotspot/Ponto de acesso dos atalhos rápidos.</string>
+</resources>
